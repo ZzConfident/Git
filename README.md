@@ -116,3 +116,12 @@ Git常用命令:
 
 Git 命令:
 
+1 git branch -a 列出所有远程分支
+
+2 git status 查看当前状态
+
+3 git remote show 查看远程库
+
+4 git ls-files 看已经被提交的
+
+5 git log 看你commit的日志 
