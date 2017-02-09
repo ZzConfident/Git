@@ -97,3 +97,22 @@ Git常用命令:
 提交修改: git commit -m '修改的内容'
 
 推送修改: git push
+
+
+
+终端命令:
+
+1 head 显示文件最初几行  例:head -5 eng.md
+
+2 diff 比较文件的差异
+
+3 sort 排序文件  sort eng.md
+
+4 nl  给文件加上行号
+
+5 date 显示系统当前时间和日期
+
+
+
+Git 命令:
+
